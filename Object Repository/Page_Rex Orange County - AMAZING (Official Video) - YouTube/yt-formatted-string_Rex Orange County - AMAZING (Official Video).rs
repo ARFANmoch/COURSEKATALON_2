@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>yt-formatted-string_Rex Orange County - AMAZING (Official Video)</name>
+   <tag></tag>
+   <elementGuidId>30b4f765-6c33-49f3-8d53-6a313185551f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>yt-formatted-string.style-scope.ytd-watch-metadata</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='title']/h1/yt-formatted-string</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>yt-formatted-string</value>
+      <webElementGuid>d03d16a6-c625-4a97-8680-7008a49b4f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style-scope ytd-watch-metadata</value>
+      <webElementGuid>1672779e-652f-46b0-8025-2b49ede4c7a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Rex Orange County - AMAZING (Official Video)</value>
+      <webElementGuid>2d010c4a-f701-456d-8c67-15491a813b66</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;above-the-fold&quot;)/div[@id=&quot;title&quot;]/h1[@class=&quot;style-scope ytd-watch-metadata&quot;]/yt-formatted-string[@class=&quot;style-scope ytd-watch-metadata&quot;]</value>
+      <webElementGuid>bd6ec767-9da7-45cb-9efc-7cefe76dd394</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='title']/h1/yt-formatted-string</value>
+      <webElementGuid>f2036c5f-4660-409c-8e2d-ada99d0d1550</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Got it'])[1]/following::yt-formatted-string[1]</value>
+      <webElementGuid>7859c581-b741-4227-8600-4ee078d07f3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Watch ads now so you can enjoy fewer interruptions'])[1]/following::yt-formatted-string[1]</value>
+      <webElementGuid>39cfcc7a-6995-4edf-ab0a-d8af8ecb585c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Rex Orange County'])[1]/preceding::yt-formatted-string[1]</value>
+      <webElementGuid>7dbf693f-3b68-4474-a451-2c5a1e74e5b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1/yt-formatted-string</value>
+      <webElementGuid>d59bf63e-2136-47f6-a4c7-f12e88dcb5e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//yt-formatted-string[(text() = 'Rex Orange County - AMAZING (Official Video)' or . = 'Rex Orange County - AMAZING (Official Video)')]</value>
+      <webElementGuid>92945485-b66e-4454-882d-2fd4e7acd79d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

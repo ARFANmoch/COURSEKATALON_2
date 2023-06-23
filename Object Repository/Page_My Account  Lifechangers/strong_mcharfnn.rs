@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>strong_mcharfnn</name>
+   <tag></tag>
+   <elementGuidId>36f46105-c286-42e2-bcde-a90dd3690d58</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[2]/following::strong[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>strong</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>strong</value>
+      <webElementGuid>fb2bdfd2-b9c1-4622-a6c0-d1508eabfd55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>mcharfnn</value>
+      <webElementGuid>9b8e31ed-44cd-4338-a9d7-135281662a17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[@class=&quot;page-template-default page page-id-7 logged-in theme-lifechangers woocommerce-account woocommerce-page woocommerce-js my-account sidebar-primary&quot;]/div[@class=&quot;main-wrapper&quot;]/section[@class=&quot;section section-home-latest woocommerce&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;woocommerce&quot;]/h5[1]/strong[1]</value>
+      <webElementGuid>5eca43e3-e79f-4683-92b1-b1ce24643d2c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='My Account'])[2]/following::strong[1]</value>
+      <webElementGuid>7a49dc40-aa3f-4731-8c46-b060cb259343</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign out'])[1]/preceding::strong[1]</value>
+      <webElementGuid>79a427fa-2bb1-4107-bfe6-0fa791dee000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='mcharfnn']/parent::*</value>
+      <webElementGuid>cd76920b-f611-47d7-a915-0ab62a801f1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//strong</value>
+      <webElementGuid>5eff170d-ea19-4193-ae6c-848f52cc480d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//strong[(text() = 'mcharfnn' or . = 'mcharfnn')]</value>
+      <webElementGuid>ef91365a-539e-4784-a4fe-23cb2cb2a37e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

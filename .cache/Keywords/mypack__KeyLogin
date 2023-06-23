@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "0DC95545593C007E26CA7AFF0C102118",
+  "keywordClasses": [
+    {
+      "name": "mypack.KeyLogin",
+      "keywordMethods": [
+        {
+          "name": "getLogin",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
